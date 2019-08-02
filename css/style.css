@@ -1,0 +1,94 @@
+.jumbotron{
+  background-image:url("../img/home.jpg");
+  background-size: cover;
+  min-height: 60vh;
+}
+h1{
+  color:white;
+}
+
+.card img{
+  max-height: 348px;
+}
+
+.card p{
+  color:black;
+  max-height: 5vh;
+  margin-bottom: 8vh;
+}
+
+
+#sticky-footer{
+  flex-shrink: none;
+  height: 100px;
+
+
+}
+
+.carousel img{
+height:300px;
+}
+
+.carousel h2{
+  margin-bottom: 15vh;<--!view height-->
+  font-size: 3em;
+}
+
+.carousel p{
+  font-size: 1em;
+}
+
+.container{
+  margin-top: 80px;
+}
+
+
+
+#fotos{
+  margin-top: 50px;
+  text-align:center;
+  margin-bottom: 50px;
+
+}
+
+#foto{
+  text-align: center;
+}
+
+
+.form-group {
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+.titulo h1{
+  text-align: center;
+  color:grey;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.btn{
+  margin-left: 50px;
+  margin-right: 50px;
+width: 200px;
+}
+
+.btn_1{
+  
+  margin-right: 50px;
+width: 200px;
+}
+
+.btn_contacto{
+
+  margin-right: 50px;
+
+
+}
+.google{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+}
