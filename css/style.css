@@ -21,8 +21,6 @@ h1{
 #sticky-footer{
   flex-shrink: none;
   height: 100px;
-
-
 }
 
 .carousel img{
@@ -76,18 +74,15 @@ width: 200px;
 }
 
 .btn_1{
-
   margin-right: 50px;
 width: 200px;
 }
 
 .btn_contacto{
-
   margin-right: 50px;
 
 
 }
 .google{
-
   margin-top: 50px;
 }
